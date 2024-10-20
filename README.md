@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on various open source projects that excite me
 - 📫 How to reach me vedant.shimpi99@gmail.com
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: You need not be perrfect to start, you need to start to be perfect
+- ⚡ Fun fact: You need not be perfect to start, you need to start to be perfect
 
 <!---
 VedantShimpi99/VedantShimpi99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
